@@ -1,5 +1,4 @@
 import mysql from 'mysql';
-import async from 'async'
 
 // 資料層
 class WagersRepository {
